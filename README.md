@@ -41,10 +41,7 @@ RESTful API design
 
 ##### 📫 How to reach me
 
-LinkedIn: [your-linkedin-profile]
-Twitter: [@your_handle]
-Email: dev@example.com
-Personal Blog: [your-blog-url]
+Email: developerisadia@gmail.com
 
 ##### ⚡ Fun facts
 
